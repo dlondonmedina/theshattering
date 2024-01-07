@@ -3,7 +3,7 @@ site_url: https://dlondonmedina.github.io/theshattering/
 docs_dir: markdown
 site_dir: docs
 nav: 
-  - Home: home.md
+  - Home: index.md
 theme: material
 plugins:
   - privacy
