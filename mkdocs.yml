@@ -1,5 +1,5 @@
 site_name: The Shattering
 site_url: https://dlondonmedina.github.io/theshattering/
 nav: 
-  - Home: index.md
+  - Home: home.md
 theme: custommill
