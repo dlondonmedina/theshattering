@@ -69,3 +69,25 @@ In the library's breakroom, Alex brought Hanna and Detroit, introducing Cleo to 
 Lucas, a leader from a nearby settlement, sought an instruction manual for a crucial piece of technology. His quest led him to the library, now inhabited by the diverse group. After initial uncertainties, the library crew and the local community engaged in a dialogue. The realization dawned that odds of survival were better when they stood together. The library, once a shelter in the night, evolved into a communal hub—a testament to the strength found in unity amidst the ruins of the old world.
 
 In the heart of Victoria, BC, a small local library became more than just a refuge; it became the epicenter of a collective journey, where individual stories intertwined to create a narrative of survival, community, and the relentless pursuit of hope in the aftermath of The Shattering.
+
+## The Rise of the Enemy
+As our small groups form, murmerings of a savior emerge across the communities and factions that remain. Leaflets begin circulating as wanderers travel across the ruined landscapes:
+
+    ### Embrace Unity, Embrace Salvation: Join the Movement for the New Global Singularity
+
+    Dear Fellow Survivors,
+
+    We do not face the threat of global chaos that will rupture society. Global chaos is here, and humanity is at a crossroads. We continue down the path we are on and we will fail, degrading back to living as beasts and dying in the wilderness. The New Global Singularity is another path. The Singularity will restore peace and ensure the resurrection of society.
+
+    At the heart of our vision is you, you joining us and becoming part of the new, unified world. We envision a society where every individual contributes to the greater good, where resources are shared equitably, and where justice reigns supreme. Only together can we build a future where hope triumphs over despair, and where humanity thrives once more. 
+
+    Under the guidance of our esteemed leader--may his wisdom and vision transcend the chaos of the present and burn brightly for 1000 years--we will march forward with unwavering determination. With a steadfast commitment to our cause, our leader charts the course towards a brighter tomorrow, inspiring us all to rise above adversity and forge a path towards salvation.
+
+    As emissaries of change, we are tasked with spreading the message of unity far and wide. Through our collective efforts, we aim to bring together factions and communities from all corners of the wasteland, bridging divides and fostering cooperation. Together, we can overcome the challenges that threaten to tear us apart and emerge stronger than ever before.
+
+    In the days to come, we will travel the lands calling for the righteous and the just and the hopeful. Will you heed our call? Will you come out into the streets and join us as we pass? Will you march to our safe havens?
+
+    In Solidarity,
+    The New Global Singularity
+
+You find yourself assembled as the emissaries of the New Global Singularity travel the lands beginning to draw people to their cause. 
